@@ -3,9 +3,7 @@ Susmission Kelas Belajar Fundamental Front-End Web Development Dicoding
 
 ## Preview
 
-![image.png](https://github.com/RioRB/KuyMakan/blob/b54a34a51ebf285672aba2d89e9d4d3fcf2918e2/images/subs_4-1Full.jpeg)
-![image.png](https://github.com/RioRB/KuyMakan/blob/b54a34a51ebf285672aba2d89e9d4d3fcf2918e2/images/subs_4-2Preview.png)
-![image.png](https://github.com/RioRB/KuyMakan/blob/b54a34a51ebf285672aba2d89e9d4d3fcf2918e2/images/subs_4-3Preview.png)
+![image.png](https://github.com/RioRB/MovieSearch/blob/f14464701c61ccaf87723c016284db2acde38526/images/subs_3Full.jpeg)
 
 ## Scripts
 
